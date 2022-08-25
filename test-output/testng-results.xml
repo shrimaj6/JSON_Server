@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T17:14:46 IST" name="Default suite" finished-at="2022-08-22T17:14:47 IST" duration-ms="1402">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T17:14:46 IST" name="Default test" finished-at="2022-08-22T17:14:47 IST" duration-ms="1402">
+      <class name="com.qa.restassured.RestApi">
+        <test-method signature="getTest_Posts()[pri:1, instance:com.qa.restassured.RestApi@7e5afaa6]" started-at="2022-08-22T17:14:46 IST" name="getTest_Posts" finished-at="2022-08-22T17:14:47 IST" duration-ms="1194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest_Posts -->
+        <test-method signature="postTest_Posts()[pri:2, instance:com.qa.restassured.RestApi@7e5afaa6]" started-at="2022-08-22T17:14:47 IST" name="postTest_Posts" finished-at="2022-08-22T17:14:47 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest_Posts -->
+        <test-method signature="putTest_Posts()[pri:3, instance:com.qa.restassured.RestApi@7e5afaa6]" started-at="2022-08-22T17:14:47 IST" name="putTest_Posts" finished-at="2022-08-22T17:14:47 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putTest_Posts -->
+        <test-method signature="deleteTest_Posts()[pri:4, instance:com.qa.restassured.RestApi@7e5afaa6]" started-at="2022-08-22T17:14:47 IST" name="deleteTest_Posts" finished-at="2022-08-22T17:14:47 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTest_Posts -->
+      </class> <!-- com.qa.restassured.RestApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
